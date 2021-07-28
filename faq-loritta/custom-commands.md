@@ -20,6 +20,7 @@ Sabia que você pode criar comandos para o seu servidor? No momento, apenas coma
 
 4. Abrirá um pop-up com as informações para você preencher ao fazer isso. Então aí que começa a mágica! Primeiro você coloca o nome do comando que você quer, e como diz no aviso, não coloque o meu prefixo no nome do comando (prefixo é o caractere que você configura para colocar antes de usar qualquer comando, como o `+`, o meu prefixo padrão). Depois, na caixa de texto embaixo, você preenche o que quiser que eu fale toda vez que alguém usar um comando!
 ![4° passo](/v3/assets/img/faq/custom_commands/4.png)
+dsadqw
 
 5. Depois de preenchido, clique em `Salvar` no pop-up e no botão verde da página. Prontinho!  <img src="https://cdn.discordapp.com/emojis/519546310978830355.png?v=1" class="inline-emoji"> Agora eu irei responder os membros do seu servidor quando usarem um comando com o nome que você colocou.
 ![5.1° passo](/v3/assets/img/faq/custom_commands/5.1.png)
